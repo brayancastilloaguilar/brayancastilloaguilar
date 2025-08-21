@@ -1,4 +1,4 @@
-<h2 align="left">Hola👋! Mi nombre es Brayan Catillo y soy desarrollador fullstack </h2>
+<h2 align="left">Hola👋! Mi nombre es Brayan Castillo Aguilar y soy desarrollador fullstack </h2>
 
 ###
 
